@@ -42,7 +42,7 @@ Size: 331830
 MD5sum: 389b562f30fe3aa7d402dc5f357411f7
 Depends: mobilesubstrate
 
-Package: com.kdk72.locationfaker
+Package: com.kdk.locationfaker
 Name: LocationFaker (iOS 8 & 9)
 Version: 1.2-9k
 Architecture: iphoneos-arm
@@ -52,8 +52,8 @@ Author: Cunstuck <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./debs/locationfaker.deb
-Size: 558882
-MD5sum: 7806ff13f9226f50eec318c7a442d71c
+Size: 558872
+MD5sum: 8f354048b6f1a83b106b43b418906bb0
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: org.thebigboss.locationchangerx
 
