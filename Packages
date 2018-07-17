@@ -1,0 +1,73 @@
+Package: com.kdk72.autolead
+Name: autolead
+Version: 7.2
+Architecture: iphoneos-arm
+Description: Nice for IOS Model 9.2.1 - 10.2.1
+Maintainer: Nice <nofearlose@gmail.com>
+Author: Nice <nofearlose@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: System
+Filename: ./debs/autolead.deb
+Size: 243038
+MD5sum: e9102d0daf98fa6e57c850027e8978ea
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.kdk72.icontool,com.kdk72.locationfaker8910,com.kdk72.xcon,com.kdk72.hookkeyboard
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+
+Package: com.kdk72.icontool
+Name: Icon Tool
+Version: 1.9-5k
+Architecture: iphoneos-arm
+Description: App tools menu from jiggle mode
+Maintainer: Nice <nofearlose@gmail.com>
+Author: Nice <nofearlose@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./debs/icontool.deb
+Size: 384372
+MD5sum: dbd817b08803a18e40a87bf897f62a23
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
+Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
+
+Package: com.kdk72.hookkeyboard
+Name: hookkeyboard
+Version: 7.2
+Architecture: iphoneos-arm
+Description: Tweak for AutoLead  iOS 9.2.1 --- 10.2.1
+Maintainer: Nice <nofearlose@gmail.com>
+Author: Nice <nofearlose@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./debs/hookkeyboard.deb
+Size: 331790
+MD5sum: 945e1c31743f7c17e6b21900427a38b6
+Depends: mobilesubstrate
+
+Package: com.kdk72.locationfaker8910
+Name: LocationFaker(8,9,10)
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Change your location using a map Cracked
+Maintainer: Nice <nofearlose@gmail.com>
+Author: Cunstuck <nofearlose@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./debs/locationfaker.deb
+Size: 558796
+MD5sum: df650ec7b29c820720590cd00dfcfff9
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx
+
+Package: com.kdk72.xcon
+Name: xCon
+Version: 42~beta4
+Architecture: iphoneos-arm
+Description: bypass anti-jailbreak protection
+Maintainer: Nice <nofearlose@gmail.com>
+Author: Lunatik <nofearlose@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./debs/xcon.deb
+Size: 136570
+MD5sum: b7f895a300be4c24bb03097af9c4ebec
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner,com.yourepo.cml.xcon,com.yourepo.viet.xcon
