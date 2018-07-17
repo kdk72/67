@@ -1,6 +1,6 @@
 Package: com.kdk72.autolead
-Name: autolead
-Version: 7.2
+Name: Autolead
+Version: 6.7
 Architecture: iphoneos-arm
 Description: Nice for IOS Model 9.2.1 - 10.2.1
 Maintainer: Nice <nofearlose@gmail.com>
@@ -8,8 +8,8 @@ Author: Nice <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: System
 Filename: ./debs/autolead.deb
-Size: 243038
-MD5sum: e9102d0daf98fa6e57c850027e8978ea
+Size: 243044
+MD5sum: be6f97e785e469303e92b625f45d43c6
 Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.kdk72.icontool,com.kdk72.locationfaker8910,com.kdk72.xcon,com.kdk72.hookkeyboard
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
 
@@ -23,14 +23,14 @@ Author: Nice <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./debs/icontool.deb
-Size: 384372
-MD5sum: dbd817b08803a18e40a87bf897f62a23
+Size: 384248
+MD5sum: 1924c2dc8d892b80329c3b25b7a8d694
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
 Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
 
 Package: com.kdk72.hookkeyboard
 Name: hookkeyboard
-Version: 7.2
+Version: 6.7
 Architecture: iphoneos-arm
 Description: Tweak for AutoLead  iOS 9.2.1 --- 10.2.1
 Maintainer: Nice <nofearlose@gmail.com>
@@ -38,13 +38,13 @@ Author: Nice <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./debs/hookkeyboard.deb
-Size: 331790
-MD5sum: 945e1c31743f7c17e6b21900427a38b6
+Size: 331830
+MD5sum: 389b562f30fe3aa7d402dc5f357411f7
 Depends: mobilesubstrate
 
-Package: com.kdk72.locationfaker8910
-Name: LocationFaker(8,9,10)
-Version: 2.0
+Package: com.kdk72.locationfaker
+Name: LocationFaker (iOS 8 & 9)
+Version: 1.2-9k
 Architecture: iphoneos-arm
 Description: Change your location using a map Cracked
 Maintainer: Nice <nofearlose@gmail.com>
@@ -52,8 +52,8 @@ Author: Cunstuck <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./debs/locationfaker.deb
-Size: 558796
-MD5sum: df650ec7b29c820720590cd00dfcfff9
+Size: 558882
+MD5sum: 7806ff13f9226f50eec318c7a442d71c
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: org.thebigboss.locationchangerx
 
@@ -67,7 +67,7 @@ Author: Lunatik <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./debs/xcon.deb
-Size: 136570
-MD5sum: b7f895a300be4c24bb03097af9c4ebec
+Size: 136566
+MD5sum: ceb3e6e9b38ebedfe283728e830387e3
 Depends: mobilesubstrate
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner,com.yourepo.cml.xcon,com.yourepo.viet.xcon
