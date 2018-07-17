@@ -8,8 +8,8 @@ Author: Nice <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: System
 Filename: ./debs/autolead.deb
-Size: 161714
-MD5sum: 820bb046d7a0cedff5b95840c1b25612
+Size: 243028
+MD5sum: fac99893e9cc6b5774e361a7f546ce6f
 Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.kdk72.icontool,com.kdk72.locationfaker,com.kdk72.xcon,com.kdk72.hookkeyboard
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
 
